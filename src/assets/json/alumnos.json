@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "😎 Juan",
+        "last_name": "Pérez",
+        "age": 20,
+        "favoriteColor": "#1dc0b2",
+        "Calificacion": 6
+    },
+    {
+        "id": 2,
+        "name": "😍 Martha",
+        "last_name": "Luna",
+        "age": 22,
+        "favoriteColor": "#33a5da",
+        "Calificacion": 8
+    },
+    {
+        "id":3,
+        "name": "😝 Elías",
+        "last_name": "Hernández",
+        "age": 21,
+        "favoriteColor": "#609cd4",
+        "Calificacion": 10
+    },
+    {
+        "id": 4,
+        "name": "🤗 Alicia",
+        "last_name": "Castellanos",
+        "age": 19,
+        "favoriteColor": "#299fb4",
+        "Calificacion": 7
+    },
+    {
+        "id": 5,
+        "name": "🥰 Nuria",
+        "last_name": "Ávila",
+        "age": 22,
+        "favoriteColor": "#60a3da",
+        "Calificacion": 9
+    }
+]
